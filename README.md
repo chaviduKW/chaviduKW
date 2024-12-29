@@ -14,7 +14,6 @@
 
 ---
 
-- 🌱 I’m currently learning Solidity.
 - ⚡ Love to watch Anime and play games during my free time.
 - 📫 How to reach me: chavidukalpana40@gmail.com
 
